@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rodatu
+- 👀 I’m interested in Web developing
+- 🌱 I’m currently learning JS, CSS and HTML
+- 💞️ I’m looking to collaborate on JS community
+- 📫 How to reach me jujubah010@gmail.com

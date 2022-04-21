@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rodatu
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning JS, CSS and HTML
-- 💞️ I’m looking to collaborate on JS community
+- 👀 I’m interested in android development
+- 🌱 I’m currently learning Android Studio, Java and Kotlin
+- 💞️ I’m looking to collaborate on create a app to improve the life quality of people.
 - 📫 How to reach me joao.oliveira.souza369@gmail.com

@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning JS, CSS and HTML
 - 💞️ I’m looking to collaborate on JS community
-- 📫 How to reach me jujubah010@gmail.com
+- 📫 How to reach me joao.oliveira.souza369@gmail.com
